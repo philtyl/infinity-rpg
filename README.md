@@ -1,8 +1,8 @@
-# What is Daggerfall Unity?
+# What is Infinity RPG?
 
-> Daggerfall Unity is an open source recreation of Daggerfall in the Unity engine created by [Daggerfall Workshop](http://www.dfworkshop.net).
+> Infinity RPG is an open source RPG based on a modded version of Daggerfall-Unity (created by [Daggerfall Workshop](http://www.dfworkshop.net)) that is built with custom created game files to break away from the TES universe.
 
-## Classic Daggerfall Plus
+## Inherited Features from Daggerfall-Unity
 
 + Cross-platform (Windows/Linux/Mac)
 + Retro graphics are boosted by modern engine and lighting
@@ -11,12 +11,6 @@
 + Huge draw distances
 + Quality of life enhancements
 + Mod support
-
-## Free Addon To Free Daggerfall
-
-+ Runs using a free copy of Daggerfall
-+ Import your classic save games
-+ Revisit a huge world of adventure
 
 ## An Open Platform
 
@@ -33,6 +27,7 @@
 
 ## Links
 
+### Daggerfall-Unity
 + [Daggerfall Workshop](http://www.dfworkshop.net/) - *Follow the development of Daggerfall Unity*
 + [Workshop Forums](http://forums.dfworkshop.net/) - *Join the community*
 + [Reddit](https://www.reddit.com/r/daggerfallunity) - *Daggerfall Unity subreddit*
